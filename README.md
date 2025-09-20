@@ -1,4 +1,4 @@
-# PSFree version 1.5.0
+# JB GoldHEN version 1.5.0
 
 Lapse Kex ported to 9.00 - Still WIP
 
