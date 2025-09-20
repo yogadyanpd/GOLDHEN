@@ -1683,7 +1683,7 @@ function runBinLoader() {
         payload_buffer
     );
 
-    log('BinLoader is ready. Send a payload to port 9020 now');
+    log('GoldHEN sudah aktif bro. Wis pencet O bae gage maen game mana');
 }
 
 // overview:
