@@ -1,0 +1,13 @@
+CACHE MANIFEST
+# Versi 1 - v1.0.0
+
+CACHE:
+bg.jpg
+fonts/LiberationMono-Regular.ttf
+cache.html
+index.html
+
+NETWORK:
+*
+
+FALLBACK:
